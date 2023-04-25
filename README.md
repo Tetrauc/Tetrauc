@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tetrauc
-- 👀 I’m interested in to know better how a program are working, and how is it buildt.
-- 🌱 I’m currently learning JAVA.
+- 👀 I’m interested in to learn fron-end developing and later get more knowledge in the profession developer.
+- 🌱 I’m currently learning the basics of Front-End developing.
 - 💞️ At the moment I’m doing the first steps to know more about this field and learn.
 - 📫 How to reach me ...
 
